@@ -1,4 +1,4 @@
 LoRaWAN Project @ PCVT
 
-Located at [https://pcvt.github.io/lorawan/]
+Located at [pcvt.github.io/lorawan](https://pcvt.github.io/lorawan/)
 
